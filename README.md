@@ -10,7 +10,7 @@ Screenshot of APP:
 
 Link to Deployed Heroku App:
 
-https://budget-tracker-cv.herokuapp.com/
+https://git.heroku.com/vast-savannah-44523.git
 
 Installation:
 
