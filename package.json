@@ -22,10 +22,7 @@
     "bootstrap": "^4.3.1",
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "jquery": "^3.6.0",
-    "mogodb": "^0.0.1-security",
-    "mongodb": "^4.4.1",
-    "mongoose": "^5.13.14",
+    "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
   },
   "devDependencies": {

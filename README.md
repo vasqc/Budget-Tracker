@@ -8,8 +8,10 @@ Screenshot of APP:
 
 Link to Deployed Heroku App:
 
+https://budget-tracker-cv.herokuapp.com/
+
 Installation:
 
 -Just run npm i through the command line to install dependencies needed.
 
-Link to GitHub:
+Link to GitHub: https://github.com/vasqc/Budget-Tracker
